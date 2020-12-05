@@ -1,5 +1,10 @@
 # SQL-Query-Map-Reduce-Jobs
 
+## Overview
+
+Implemented Map reduce jobs for processing SQL Queries on Amazon product reviews dataset available at
+https://s3.amazonaws.com/amazon-reviews-pds/readme.html
+
 ## Problem Statement
 
 [link](Assignment-1.pdf)
