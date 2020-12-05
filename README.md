@@ -1,8 +1,8 @@
-# Assignment #1
+# SQL-Query-Map-Reduce-Jobs
 
 ## Problem Statement
 
-[link](Assignment-1)
+[link](Assignment-1.pdf)
 
 ## Query Format
 
